@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/rango-21-01-2024/</loc>
-    <lastmod>2024-01-21T22:01:52-03:00</lastmod>
-  </url><url>
     <loc>https://example.org/</loc>
-    <lastmod>2024-01-21T22:01:52-03:00</lastmod>
+    <lastmod>2024-09-02T11:34:01-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/oficina-programa%C3%A7%C3%A3o-bash/</loc>
+    <lastmod>2024-09-02T11:34:01-03:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/</loc>
+    <lastmod>2024-09-02T11:34:01-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/rango-21-01-2024/</loc>
     <lastmod>2024-01-21T22:01:52-03:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/</loc>

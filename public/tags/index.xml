@@ -4,7 +4,7 @@
     <title>Tags on Matehackers Fotolog</title>
     <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Matehackers Fotolog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-br</language>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

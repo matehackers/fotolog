@@ -3,3 +3,5 @@ languageCode = 'pt-br'
 title = 'Matehackers Fotolog'
 theme = 'mini'
 enableEmoji = 'true'
+[markup.goldmark.renderer]
+  unsafe = true

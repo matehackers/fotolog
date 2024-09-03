@@ -4,7 +4,7 @@
     <title>Posts on Matehackers Fotolog</title>
     <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Matehackers Fotolog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 02 Sep 2024 11:34:01 -0300</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,13 @@
       <pubDate>Mon, 02 Sep 2024 11:34:01 -0300</pubDate>
       <guid>https://example.org/posts/oficina-programa%C3%A7%C3%A3o-bash/</guid>
       <description>Oficina de programação em Bash realizada no sábado 31/08/2024, no espaço físico do mate hackers</description>
+    </item>
+    <item>
+      <title>Oficinas de Computação e Robótica Educativa</title>
+      <link>https://example.org/posts/oficina-computacao-robotica-educativa/</link>
+      <pubDate>Sat, 24 Aug 2024 21:19:30 -0300</pubDate>
+      <guid>https://example.org/posts/oficina-computacao-robotica-educativa/</guid>
+      <description>Oficinas de Computação e Robótica Educativa organizadas pelo grupo Porto Hacker, nos dias 17 e 24 de agosto.</description>
     </item>
     <item>
       <title>21/01/2024</title>

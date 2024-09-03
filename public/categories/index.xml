@@ -4,7 +4,7 @@
     <title>Categories on Matehackers Fotolog</title>
     <link>https://example.org/categories/</link>
     <description>Recent content in Categories on Matehackers Fotolog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

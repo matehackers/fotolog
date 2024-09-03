@@ -4,7 +4,7 @@
     <title>Sobre on Matehackers Fotolog</title>
     <link>https://example.org/about/</link>
     <description>Recent content in Sobre on Matehackers Fotolog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>

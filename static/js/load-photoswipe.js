@@ -25,6 +25,9 @@ function ready(fn) {
 
 /**
  * Initializes photoswipe
+ *
+ * note that is using photoswipe 4.11, so the reference
+ * documentation is at https://photoswipe.com/v4-docs/getting-started.html
  */
 function init_photoswipe() {
   const items = []; // array of slide objects that will be passed to PhotoSwipe()
@@ -71,7 +74,7 @@ function init_photoswipe() {
           clearInterval(wait);
           item.w = w;
           item.h = h;
-          console.log("Got actual dimensions for " + img.src);
+          console.log("Got actual dimensions for " + img.src + ", w: " + w + " h: " + h);
         }
       }, 30);
     }

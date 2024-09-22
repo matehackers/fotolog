@@ -44,6 +44,9 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 			{{- range $.Page.Resources.ByType "image" -}}
 				{{- $thumbnail := .Fill $thumbnailSize -}}
 				{{- $caption :=  .Title | replaceRE "\\..*" "" | humanize }}<!-- humanized filename without extension -->
+				{{- $imgWidth := string .Width -}}
+				{{- $imgHeight := string .Height -}}
+				{{- $imgSize := printf "%s%s%s" $imgWidth "x" $imgHeight -}}
 				<div class="box">
 				<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 					<div class="img" style="background-image: url('{{ $thumbnail.RelPermalink }}');" >
@@ -54,7 +57,7 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 							<p>{{ $caption }}</p>
 						</figcaption>
 					{{- end -}}
-					<a href="{{ .RelPermalink }}" itemprop="contentUrl"></a><!-- put <a> last so it is stacked on top -->
+					<a data-size="{{ $imgSize }}" href="{{ .RelPermalink }}" itemprop="contentUrl"></a><!-- put <a> last so it is stacked on top -->
 				</figure>
 			</div>
 			{{- end }}

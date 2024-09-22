@@ -50,6 +50,9 @@ Lembre-se de colocar `draft = false` antes de publicar o site.
 
 ## Publicando o site
 
+> [!NOTE]
+> Deve ter alguma forma mais fácil de fazer isso. Se você manja de github pages/actions, pode ajudar contribuindo [nesse issue](https://github.com/matehackers/fotolog/issues/1).
+
 O site é hospedado utilizando o github pages.
 
 A edição dos arquivos markdown e imagens deve ser feita no branch `main`. Após finalizar a escrita do post, rode

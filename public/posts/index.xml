@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Matehackers Fotolog</title>
-    <link>https://example.org/posts/</link>
+    <link>https://fotolog.matehackers.org/posts/</link>
     <description>Recent content in Posts on Matehackers Fotolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 02 Sep 2024 11:34:01 -0300</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 14:52:55 -0300</lastBuildDate>
+    <atom:link href="https://fotolog.matehackers.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Encontro do GELC</title>
+      <link>https://fotolog.matehackers.org/posts/primeiro-encontro-gelc/</link>
+      <pubDate>Sun, 22 Sep 2024 14:52:55 -0300</pubDate>
+      <guid>https://fotolog.matehackers.org/posts/primeiro-encontro-gelc/</guid>
+      <description>O primeiro encontro do Grupo de Estudos de Linha de Comando aconteceu na sede do MateHackers no dia 21/09/2024, com o tema &lt;strong&gt;Jogos como forma de aprender o uso do terminal&lt;/strong&gt;</description>
+    </item>
     <item>
       <title>Oficina de Bash</title>
-      <link>https://example.org/posts/oficina-programa%C3%A7%C3%A3o-bash/</link>
+      <link>https://fotolog.matehackers.org/posts/oficina-programa%C3%A7%C3%A3o-bash/</link>
       <pubDate>Mon, 02 Sep 2024 11:34:01 -0300</pubDate>
-      <guid>https://example.org/posts/oficina-programa%C3%A7%C3%A3o-bash/</guid>
+      <guid>https://fotolog.matehackers.org/posts/oficina-programa%C3%A7%C3%A3o-bash/</guid>
       <description>Oficina de programação em Bash realizada no sábado 31/08/2024, no espaço físico do mate hackers</description>
     </item>
     <item>
       <title>Oficinas de Computação e Robótica Educativa</title>
-      <link>https://example.org/posts/oficina-computacao-robotica-educativa/</link>
+      <link>https://fotolog.matehackers.org/posts/oficina-computacao-robotica-educativa/</link>
       <pubDate>Sat, 24 Aug 2024 21:19:30 -0300</pubDate>
-      <guid>https://example.org/posts/oficina-computacao-robotica-educativa/</guid>
+      <guid>https://fotolog.matehackers.org/posts/oficina-computacao-robotica-educativa/</guid>
       <description>Oficinas de Computação e Robótica Educativa organizadas pelo grupo Porto Hacker, nos dias 17 e 24 de agosto.</description>
     </item>
     <item>
       <title>21/01/2024</title>
-      <link>https://example.org/posts/rango-21-01-2024/</link>
+      <link>https://fotolog.matehackers.org/posts/rango-21-01-2024/</link>
       <pubDate>Sun, 21 Jan 2024 22:01:52 -0300</pubDate>
-      <guid>https://example.org/posts/rango-21-01-2024/</guid>
+      <guid>https://fotolog.matehackers.org/posts/rango-21-01-2024/</guid>
       <description>Dia 21/01/2024 rolou um rango pra iniciar os planos pro ano de 2024.</description>
     </item>
   </channel>

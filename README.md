@@ -64,15 +64,46 @@ hugo
 Isso vai gerar um diretório `public/` com os arquivos estáticos atualizados. Faça um commit incluindo todos os novos arquivos gerados (em `content/` e `public/`)
 
 ```bash
+# no branch `main`
 git add .
 git commit -m "publish 'meu-novo-post-no-flog'"
 git push
 ```
 
-Agora, mude para o branch `gh-pages` e pegue o novo diretório `public/`.
+Agora, mude para o branch `gh-pages`.
 
 ```bash
 git switch gh-pages
+```
+
+### Deploy com o script
+
+Rode o script `deploy.sh`.
+
+```bash
+# no branch `gh-pages`
+./deploy-sh
+```
+
+depois verifique as alterações com `git status`:
+
+```bash
+git status
+```
+
+Se tudo estiver ok, faça um novo commit e suba-o com `git push`.
+
+```bash
+git commit -m "Meu novo post"
+git push
+```
+
+### Deploy manual (passo a passo)
+
+Comece copiando o diretório `public/` gerado no branch `main`.
+
+```bash
+# no branch `gh-pages`
 git checkout main -- public/
 ```
 

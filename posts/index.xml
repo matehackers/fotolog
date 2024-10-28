@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Matehackers Fotolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 22 Sep 2024 14:52:55 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 13:21:04 -0300</lastBuildDate>
     <atom:link href="https://fotolog.matehackers.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Café Reparo no MateHackers</title>
+      <link>https://fotolog.matehackers.org/posts/cafe-reparo/</link>
+      <pubDate>Sat, 26 Oct 2024 13:21:04 -0300</pubDate>
+      <guid>https://fotolog.matehackers.org/posts/cafe-reparo/</guid>
+      <description>Nesse sábado 26/10 aconteceu uma edição do projeto Café Reparo no MateHackers</description>
+    </item>
+    <item>
+      <title>Em Terra De Vault7, quem tem Air Gap é Rei</title>
+      <link>https://fotolog.matehackers.org/posts/cyberseguranca-em-terra-de-vault7/</link>
+      <pubDate>Sun, 20 Oct 2024 13:04:31 -0300</pubDate>
+      <guid>https://fotolog.matehackers.org/posts/cyberseguranca-em-terra-de-vault7/</guid>
+      <description>Palestra de Cyberseguranca: Em Terra De Vault7, quem tem air Gap É Rei, realizada no dia 19/10/2024</description>
+    </item>
     <item>
       <title>Primeiro Encontro do GELC</title>
       <link>https://fotolog.matehackers.org/posts/primeiro-encontro-gelc/</link>
